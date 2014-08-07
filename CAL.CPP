@@ -1,6 +1,6 @@
 #inlcude<iostream>
 int main()
 {
-cout<<"";
+cout<<"hiiii";
 return 0;
 }
